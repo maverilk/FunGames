@@ -1,0 +1,72 @@
+/*formulario alta------------------------------------------*/
+.box {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.834);
+  padding: 20px;
+  max-width: 500px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form__field {
+  margin-bottom: 20px;
+}
+
+.form__label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form__input,
+.form__select,
+.form__file {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.form__note {
+  font-size: 14px;
+  color: #888;
+}
+
+.form__checkbox-label {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #555;
+}
+
+.form__checkbox {
+  margin-right: 5px;
+}
+
+.form__submit {
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.form__submit:hover {
+  background-color: #45a049;
+}

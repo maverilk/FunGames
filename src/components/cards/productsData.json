@@ -1,0 +1,91 @@
+[{
+    "title": "Razer Huntsman RGB",
+    "imgKey": "teclado",
+    "description": "Función antighosting incorporada.\nTipo de teclado: opto-mecánico.\nTecla cilíndrica.\nCon conector USB-C.\nCon cable removible.\nMedidas: 362mm de ancho, 140mm de alto y 37mm de profundidad.\nLas imágenes pueden ser ilustrativas.",
+    "price": "$100"
+  },
+  {
+    "title": "MONITOR 19 PHILIPS",
+    "imgKey": "monitor",
+    "description": "Protección del medioambiente y ahorro de energía\nEnergyStar 6.0\nEPEAT de plata\nRoHS\nSin plomo\nSin mercurio\nMaterial de embalaje reciclable\nColor: Negro\nMuy fino (bisel frontal)/Textura (cubierta posterior)",
+    "price": "$100"
+  },
+  {
+    "title": "Memoria SODIMM 8GB DDR4\nADATA",
+    "imgKey": "memoria",
+    "description": "Tipo de memoria interna: DDR4\nMemoria interna: 8GB\nDiseño de memoria: 1 x 8GB\nVelocidad de memoria del reloj: 3200 MHz\nFactor de Forma: 260-pin SO-DIMM",
+    "price": "$100"
+  },
+  {
+    "title": "AURICULARES CORSAIR VIRTUOSO",
+    "imgKey": "auriculares",
+    "description": "almohadillas de espuma viscoelástica premium.\nconstrucción de aluminio mecanizado.\ntransductores de neodimio de alta densidad de 50 mm.\nrango de frecuencia de 20 Hz-40 000 Hz.\nsonido de alta fidelidad.\nMicrófono extraíble.\nsonido envolvente e inmersivo 7.1.",
+    "price": "$100"
+  },
+  {
+    "title": "MOUSE LOGITECH G403 HERO",
+    "imgKey": "mouse",
+    "description": "Resolución de seguimiento: 200 - 12,000 dpi.\nMáx. aceleración: 40G.\nMáx. velocidad: 300 ips.\nFormato de datos USB: 16 bits/eje.\nVelocidad de informe del USB: 1000 Hz (1 ms).\nMicroprocesador: ARM de 32 bits.\nProtocolo USB: USB 2.0.",
+    "price": "$100"
+  },
+  {
+    "title": "Teclado Mecánico HyperX Alloy FPS Pro",
+    "imgKey": "teclado2",
+    "description": "Switches Cherry MX\nRetroiluminación LED roja.\nModo de juego sin interrupciones.\nCable desmontable.\nUltraportátil.",
+    "price": "$120"
+  },
+  {
+    "title": "Monitor LG Ultragear 27GL850",
+    "imgKey": "monitor2",
+    "description": "Tamaño de pantalla: 27 pulgadas.\nResolución: 2560x1440 (QHD).\nTasa de actualización: 144Hz.\nTecnología Nano IPS.\nTiempo de respuesta: 1ms.",
+    "price": "$450"
+  },
+  {
+    "title": "Memoria RAM Corsair Vengeance RGB Pro",
+    "imgKey": "memoria2",
+    "description": "Capacidad: 16GB (2 x 8GB).\nTipo de memoria interna: DDR4.\nVelocidad de memoria del reloj: 3200 MHz.\nDiseño elegante con iluminación RGB personalizable.",
+    "price": "$130"
+  },
+  {
+    "title": "Auriculares SteelSeries Arctis 7",
+    "imgKey": "auriculares2",
+    "description": "Sonido envolvente DTS Headphone:X v2.0.\nTransductores S1 de alta fidelidad.\nMicrófono ClearCast con cancelación de ruido.\nHasta 24 horas de duración de la batería.",
+    "price": "$150"
+  },
+  {
+    "title": "Mouse Razer DeathAdder V2",
+    "imgKey": "mouse2",
+    "description": "Sensor óptico Razer Focus+ de 20K DPI.\nInterruptores ópticos Razer.\nDiseño ergonómico para diestros.\nBotones programables Razer HyperSpeed wireless.",
+    "price": "$80"
+  },
+  {
+    "title": "Tarjeta gráfica NVIDIA GeForce RTX 3080",
+    "imgKey": "tarjeta-grafica",
+    "description": "Arquitectura Ampere de NVIDIA.\n16 GB de memoria GDDR6X.\nNúcleos CUDA: 8704.\nSoporte para Ray Tracing y DLSS.",
+    "price": "$800"
+  },
+  {
+    "title": "Monitor ASUS ROG Swift PG279Q",
+    "imgKey": "monitor3",
+    "description": "Tamaño de pantalla: 27 pulgadas.\nResolución: 2560x1440 (QHD).\nTasa de actualización: 165Hz.\nPanel IPS con amplio ángulo de visión.\nTiempo de respuesta: 4ms.",
+    "price": "$650"
+  },
+  {
+    "title": "Memoria RAM Crucial Ballistix 32GB",
+    "imgKey": "memoria3",
+    "description": "Capacidad: 32GB (2 x 16GB).\nTipo de memoria interna: DDR4.\nVelocidad de memoria del reloj: 3600 MHz.\nDiseño de perfil bajo.",
+    "price": "$180"
+  },
+  {
+    "title": "Auriculares Sony WH-1000XM4",
+    "imgKey": "auriculares3",
+    "description": "Cancelación de ruido líder en la industria.\nTecnología de sensor de ruido dual.\nHasta 30 horas de duración de la batería.\nSonido de alta resolución.",
+    "price": "$300"
+  },
+  {
+    "title": "Mousepad SteelSeries QcK Prism XL",
+    "imgKey": "mousepad",
+    "description": "Superficie de tela micro tejida de alta calidad.\nIluminación RGB Prism con 2 zonas.\nBase de goma antideslizante.\nTamaño XL: 900mm x 300mm x 4mm.",
+    "price": "$50"
+  }
+]
